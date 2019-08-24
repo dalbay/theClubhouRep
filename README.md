@@ -1,5 +1,5 @@
 ## Git Operations & Commands
-![Git Operations and Commands](/images/git_pic1.png)
+
 ### *Create Repositories*
   1. Create Central Repository on GitHub
   2. Create Local Repository
